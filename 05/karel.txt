@@ -1,0 +1,145 @@
+class program {
+    program () {
+        if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        move();
+        }
+        }
+                if(notNextToABeeper) {
+        putbeeper();
+        move();
+        }
+        {
+        if(nextToABeeper) {
+        pickbeeper();
+        if(nextToABeeper) {
+        move();
+        }
+        putbeeper();
+        }
+        }
+        
+        turnoff();
+    }
+}
