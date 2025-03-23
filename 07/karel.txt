@@ -1,0 +1,23 @@
+class program {
+void turnright() {
+turnleft();
+turnleft();
+turnleft();
+}
+    program () {
+    iterate(7){
+    move();
+    turnright();
+    move();
+    if (notNextToABeeper) {
+    turnleft();
+    }
+    else {
+    pickbeeper();
+    turnleft();
+    
+        }
+        }
+        turnoff();
+    }
+}
